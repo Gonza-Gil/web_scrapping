@@ -1,3 +1,5 @@
+# Test de la libreria Beatiful Soup 4
+
 import requests, bs4
 
 # El metodo get de requests devuelve un objeto de tipo request, que contiene todo el contenido de la página en un string
