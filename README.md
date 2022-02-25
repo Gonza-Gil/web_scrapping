@@ -1,5 +1,5 @@
-# Web Scrapping
-Este repositorio contiene varias apps desarrolladas en Python con el fin de aprender web scrapping
+# Web Scraping
+Este repositorio contiene varias apps desarrolladas en Python con el fin de aprender web scraping
 
 ## Requisitos
 __Antes de ejecutar correr en consola:__<br>
