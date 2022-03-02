@@ -32,9 +32,17 @@ __Para ejecutarlo correr en consola:__<br>
 python search_meli.py
 ```
 
+## Auto 2048
+Es un programa que juega al juego [2048](https://gabrielecirulli.github.io/2048/). El programa lo que hace es mover las fichas con el patrón ARRIBA, DERECHA, ABAJO, IZQUIERDA, ya que de esta forma se pueden obtener puntajes bastante altos.<br>
+__Para ejecutarlo correr en consola:__<br>
+```
+python auto_2048.py
+```
+
 ## Recursos
 - [Web scraping](https://es.wikipedia.org/wiki/Web_scraping)
 - [Webbrowser](https://docs.python.org/es/3/library/webbrowser.html)
 - [Requests](https://docs.python-requests.org/en/latest/)
 - [BS4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [Pyperclip](https://pypi.org/project/pyperclip/)
+- [Selenium](https://www.selenium.dev/documentation/)
